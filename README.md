@@ -11,6 +11,8 @@ Beware, however, for lawyers have been sanctioned for using it unwisely.  See, *
 
 Unwise reliance on Generative AI is enough of a problem that some courts now have standing orders related to AI-generated material.  *See, e.g.*, a [order](http://chrome-extension/efaidnbmnnnibpcajpcglclefindmkaj/https:/www.ilnd.uscourts.gov/_assets/_documents/_forms/_judges/Fuentes/Standing%20Order%20For%20Civil%20Cases%20Before%20Judge%20Fuentes%20rev'd%205-31-23.pdf) by Magistrate Judge Gabriel A. Fuentes (N.D. Ill.) that was adopted on May 31, 2023.
 
+Here is a set of articles that discuss Generative AI in depth.
+
 - [Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai) (This article discusses what Generative AI is, type history, the hype, the reality, and the use cases.)
 
 - [The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry](https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-consumer-products-industry) (This article discusses the important legal aspects of generative AI systems such as [OpenAI's ChatGPT](https://openai.com/blog/chatgpt), [Microsoft's Copilot](https://adoption.microsoft.com/en-us/copilot/), and similar commercial offerings.)
