@@ -32,6 +32,11 @@ You can find other definitions [here](https://www.britannica.com/technology/arti
 A few things to note.  All of those quotes were from the Twentieth Century.  AI was first conceived by [Aristotle](https://en.wikipedia.org/wiki/Aristotle).  Work on neural networks started in the 1950's.  What you see now is the culmination of decades of work by thousands of people.
 
 ## Types of AI
+
+Some types (or combinations of types) of AI are famous.  Many types of AI labor in the background -- unseen and unnoticed -- some of which have significant legal implications.
+
+The most important thing to remember is that there are many types of AI, as the chart below suggests:
+
 ![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
 
 ### Natural Language Processing (NLP)
