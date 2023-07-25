@@ -33,8 +33,13 @@ A few things to note.  All of those quotes were from the Twentieth Century.  AI 
 
 ## Types of AI
 ![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
-### Generative AI 
+
+### Natural Language Processing (NLP)
+
+#### Generative AI 
 What is Generative AI?
+
+Generative AI is a subset of Natural Language Processing.  Specifically, Generative AI employs the *Answering Questions* and *Text Generation* aspects of NLP.  The *Answering Questions* aspect is the interface that is used to ask the question.  In recent parlance, the *Answering Questions* aspect is called a *Prompt*.  The answer that comes back is from the *Text Generation* machine.
 
 Essentially, Generative AI makes use of a model (such as a "Large Language Model" like GPT4) that enables the AI to generate new content with little human interaction.  You should think of it as an automated paraphraser, albeit with some serious caveats.  AI professionals refer to Generative AI as "a stochastic parrot" or "a reality-starved paraphraser".  The AI doesn't know what it is saying (or whether what it says is real or not), but it says it very nicely.  Sometimes, the Generative AI can depart significantly from reality, and this is known as "going [hysterical](https://www.windowscentral.com/software-apps/users-show-microsoft-bings-chatgpt-ai-going-off-the-deep-end)."  However, even with those limitations, Generative AI has met with great commercial success.  Since it is not tied to reality, marketing people love it.  
 
