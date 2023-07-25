@@ -5,7 +5,7 @@ There is no one single definition of artificial intelligence.  Fortunately, ther
 
 ### Thinking Humanly
 > "The exciting new effort to make computers think ... *machines with minds*, in the full and literal sense." (Gaugeland, 1985) 
-> "[The automation of] Activities that we associate with human thinking, activities such as decision-making, problem solving, learning..." (Bellman, 1978)
+> "{The automation of} Activities that we associate with human thinking, activities such as decision-making, problem solving, learning..." (Bellman, 1978)
 
 ### Thinking Rationally
 > "The study of mental faculties through the use of computational models." (Charniak and McDermott, 1985)  
