@@ -1,2 +1,2 @@
-# ai_compendium
-A compendium of AI topics (specifically for lawyers)
+# A Compendium of Artificial Intelligence
+## (specifically for lawyers)
