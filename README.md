@@ -63,7 +63,7 @@ Beware, however, for lawyers have been sanctioned for using it unwisely.  See, *
 
 Unwise reliance on Generative AI is enough of a problem that some courts now have standing orders related to AI-generated material.  *See, e.g.*, an [order](http://chrome-extension/efaidnbmnnnibpcajpcglclefindmkaj/https:/www.ilnd.uscourts.gov/_assets/_documents/_forms/_judges/Fuentes/Standing%20Order%20For%20Civil%20Cases%20Before%20Judge%20Fuentes%20rev'd%205-31-23.pdf) by Magistrate Judge Gabriel A. Fuentes (N.D. Ill.) that was adopted on May 31, 2023.
 
-Having said all of this, you should know that you can "fine tune" your own AI on something real.  In other words, you can direct the AI to look at a corpus of documents (e.g., opinions from the Texas Supreme Court, or [ESI](https://en.wikipedia.org/wiki/Electronically_stored_information_(Federal_Rules_of_Civil_Procedure)) from a witness) and let it answer questions -- and identify the document from which it drew from to answer your question.
+Having said all of this, you should know that you can "fine tune" your own AI on something real.  In other words, you can direct the AI to look at a corpus of documents (e.g., opinions from the Texas Supreme Court, or [ESI](https://en.wikipedia.org/wiki/Electronically_stored_information_(Federal_Rules_of_Civil_Procedure)) from a witness) and let it answer questions -- and identify the document(s) from which it drew to answer your question.
 
 Here is a set of articles that discuss Generative AI in depth.
 
