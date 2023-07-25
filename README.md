@@ -1,5 +1,5 @@
 # A Compendium of Artificial Intelligence (specifically for lawyers)
-This compendium was produced for the 2023 Texas Advanced Business Law Conference 
+This compendium was produced for the 2023 Texas Advanced Business Law Conference.  This document is seen as far more useful than a traditional paper.  Moreover, this compendium may be updated in the future, in stark contrast to traditional papers.
 ## What is Artificial Intelligence?
 ## Types of AI
 ### Generative AI 
