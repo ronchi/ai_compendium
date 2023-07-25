@@ -3,7 +3,8 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 
 ## Table of Contents
 
-[What is Artificial Intelligence?]()
+1.  [What is Artificial Intelligence?](https://github.com/ronchi/ai_compendium/blob/main/README.md#what-is-artificial-intelligence)
+2.  [Types of AI](https://github.com/ronchi/ai_compendium/blob/main/README.md#types-of-ai)
 
 ## What is Artificial Intelligence?
 There is no one single definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the form of the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
