@@ -57,6 +57,9 @@ We will address each type of AI, as well as link to various other sources, below
 
 NLP is the aspect of AI that lawyers deal with most often -- both directly and indirectly.
 
+#### Definition of Natural Language Processing
+
+
 #### Generative AI 
 What is Generative AI?
 
