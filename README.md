@@ -71,9 +71,17 @@ Having said all of this, you should know that you can "fine tune" your own AI on
 
 Here is a set of articles that discuss Generative AI in depth.
 
+##### In General
+
 - [Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai) (This article discusses what Generative AI is, the history, the hype, the reality, and the use cases.)
 
+##### Legal Aspects
+
 - [The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry](https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-consumer-products-industry) (This article discusses the important legal aspects of generative AI systems such as [OpenAI's ChatGPT](https://openai.com/blog/chatgpt), [Microsoft's Copilot](https://adoption.microsoft.com/en-us/copilot/), and similar commercial offerings.)
+
+##### Rolling Your Own
+
+- [A Complete Guide to Fine Tuning Large Language Models](https://www.simform.com/blog/completeguide-finetuning-llm/) ("Fine-tuning in large language models (LLMs) involves re-training pre-trained models on specific datasets, allowing the model to adapt to the specific context of your business needs. This process can help you create highly accurate language models, tailored to your specific business use cases.")
 
 ## AI for the Practice of Law
 ## A Few Things That Litigators Should Know About AI
