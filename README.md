@@ -1,5 +1,10 @@
 # A Compendium of Artificial Intelligence (specifically for lawyers)
 This compendium was produced for the 2023 Texas Advanced Business Law Conference.  This document is seen as far more useful than a traditional paper.  Moreover, this compendium may be updated in the future, in stark contrast to traditional papers.
+
+## Table of Contents
+
+[What is Artificial Intelligence?]()
+
 ## What is Artificial Intelligence?
 There is no one single definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the form of the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
 
@@ -42,6 +47,8 @@ The most important thing to remember is that there are many types of AI, as the 
 We will address each type of AI, as well as link to various other sources, below.
 
 ### Natural Language Processing (NLP)
+
+NLP is the aspect of AI that lawyers deal with most often -- both directly and indirectly.
 
 #### Generative AI 
 What is Generative AI?
