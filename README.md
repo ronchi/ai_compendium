@@ -39,6 +39,8 @@ The most important thing to remember is that there are many types of AI, as the 
 
 ![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
 
+We will address each type of AI, as well as link to various other sources, below.
+
 ### Natural Language Processing (NLP)
 
 #### Generative AI 
