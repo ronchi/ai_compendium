@@ -30,6 +30,7 @@ There is no one single definition of artificial intelligence.  Fortunately, ther
 You can find other definitions [here](https://www.britannica.com/technology/artificial-intelligence), [here](https://www.hpe.com/us/en/what-is/artificial-intelligence.html), and [here](https://www.ibm.com/topics/artificial-intelligence).
 
 ## Types of AI
+![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
 ### Generative AI 
 What is Generative AI?
 
