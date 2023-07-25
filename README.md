@@ -4,13 +4,15 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 There is no one single definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the form of the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
 
 ### Thinking Humanly
-`"The exciting new effort to make computers think ... *machines with minds*, in the full and literal sense." (Gaugeland, 1985) (emphasis supplied)`
+`"The exciting new effort to make computers think ... machines with minds, in the full and literal sense." (Gaugeland, 1985)`
 
 `"{The automation of} Activities that we associate with human thinking, activities such as decision-making, problem solving, learning..." (Bellman, 1978)`
 
 ### Thinking Rationally
-> "The study of mental faculties through the use of computational models." (Charniak and McDermott, 1985)  
-> "The sutdy of the computations that make it possible to perceive, reason, and act." (Winston, 1992)
+
+`"The study of mental faculties through the use of computational models." (Charniak and McDermott, 1985)`
+
+`"The sutdy of the computations that make it possible to perceive, reason, and act." (Winston, 1992)`
 
 
 ## Types of AI
