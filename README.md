@@ -29,6 +29,8 @@ There is no one single definition of artificial intelligence.  Fortunately, ther
 
 You can find other definitions [here](https://www.britannica.com/technology/artificial-intelligence), [here](https://www.hpe.com/us/en/what-is/artificial-intelligence.html), and [here](https://www.ibm.com/topics/artificial-intelligence).
 
+A few things to note.  All of those quotes were from the Twentieth Century.  AI was first conceived by [Aristotle](https://en.wikipedia.org/wiki/Aristotle).  Work on neural networks started in the 1950's.  What you see now is the culmination of decades of work.
+
 ## Types of AI
 ![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
 ### Generative AI 
