@@ -27,6 +27,8 @@ There is no one single definition of artificial intelligence.  Fortunately, ther
 
 `AI ...is concerned with intelligent behavior in artificats." (Nilsson, 1998)`
 
+You can find other definitions [here](https://www.britannica.com/technology/artificial-intelligence), [here](https://www.hpe.com/us/en/what-is/artificial-intelligence.html), and [here](https://www.ibm.com/topics/artificial-intelligence).
+
 ## Types of AI
 ### Generative AI 
 What is Generative AI?
