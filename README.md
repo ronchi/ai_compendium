@@ -189,4 +189,3 @@ Here is a set of articles that discuss Generative AI in depth.
 
 ## A Few Things That Litigators Should Know About AI
 ## A Few Things that Transactional Attorneys Should Know About AI
-## Bonus:  Some Code That You Can Play Around With (for free)
