@@ -59,8 +59,68 @@ NLP is the aspect of AI that lawyers deal with most often -- both directly and i
 
 #### Definition of Natural Language Processing
 
+#### Context Extraction
 
-#### Generative AI 
+##### Use Cases
+
+##### Examples
+
+##### In General:
+
+##### Legal Aspects:
+
+##### Roll Your Own
+
+#### Classification
+
+##### Use Cases
+
+##### Examples
+
+##### In General:
+
+##### Legal Aspects:
+
+##### Roll Your Own
+
+#### Machine Translation
+
+##### Use Cases
+
+##### Examples
+
+##### In General:
+
+##### Legal Aspects:
+
+##### Roll Your Own
+
+#### Answering Questions
+
+##### Use Cases
+
+##### Examples
+
+##### In General:
+
+##### Legal Aspects:
+
+##### Roll Your Own
+
+#### Text Generation
+
+##### Use Cases
+
+##### Examples
+
+##### In General:
+
+##### Legal Aspects:
+
+##### Roll Your Own
+
+#### Generative AI (ChatGPT-like combination of Answering Questions and Text Generation)
+
 What is Generative AI?
 
 Generative AI is a subset of Natural Language Processing.  Specifically, Generative AI employs the *Answering Questions* and *Text Generation* aspects of NLP.  The *Answering Questions* aspect is the interface that is used to ask the question.  In recent parlance, the *Answering Questions* aspect is called a *Prompt*.  The answer that comes back is from the *Text Generation* machine.  A classic example of the Promt/Generation duo is [ChatGPT](https://openai.com/blog/chatgpt).
