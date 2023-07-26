@@ -78,6 +78,7 @@ Here is a set of articles that discuss Generative AI in depth.
 ##### In General:
 
 - [Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai) (This article discusses what Generative AI is, the history, the hype, the reality, and the use cases.)
+- [Generative AI: Perspectives from Stanford HAI](https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf) (This March, 2023 paper is from the Stanford University Human-Centered Artificial Intelligence initiative discusses the potential of Generative AI.)
 
 ##### Legal Aspects:
 
