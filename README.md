@@ -145,6 +145,7 @@ Here is a set of articles that discuss Generative AI in depth.
 - [The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry](https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-consumer-products-industry) (This article discusses the important legal aspects of generative AI systems such as [OpenAI's ChatGPT](https://openai.com/blog/chatgpt), [Microsoft's Copilot](https://adoption.microsoft.com/en-us/copilot/), and similar commercial offerings.)
 - [ChatGPT Goes to Law School](https://ssrn.com/abstract=4335905) (The authors of this paper used ChatGPT to generate answers to four real exams at the University of Minnesota Law School.  The resulting answers were graded (blindly) and ChatGPT received an average grade of C+ -- low, but passing.  Further advise was provided on how to use ChatGPT in legal writing.)
 - [Generative AI in the Legal Profession](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/generative-ai-in-the-legal-profession/) ("When Open AI released ChatGPT in late 2022, it galvanized the collective imagination—and collective anxiety. Even lawyers wondered how such new AI technologies would change their profession.")
+- [The Implications of ChatGPT for Legal Services and Society](https://clp.law.harvard.edu/article/the-implications-of-chatgpt-for-legal-services-and-society/) ("To demonstrate ChatGPT's remarkable sophistication and potential implications, for both legal services and society more generally, most of this paper was generated in about an hour through prompts within the chatbot. The disruptions from AI’s rapid development are no longer in the distant future. They have arrived, and this essay offers a small taste of what lies ahead.")
 
 ##### Rolling Your Own:
 
@@ -156,6 +157,7 @@ Here is a set of articles that discuss Generative AI in depth.
 ## AI for the Practice of Law
 
 - [Generative AI in the Legal Profession](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/generative-ai-in-the-legal-profession/) ("When Open AI released ChatGPT in late 2022, it galvanized the collective imagination—and collective anxiety. Even lawyers wondered how such new AI technologies would change their profession.")
+- [The Implications of ChatGPT for Legal Services and Society](https://clp.law.harvard.edu/article/the-implications-of-chatgpt-for-legal-services-and-society/) ("To demonstrate ChatGPT's remarkable sophistication and potential implications, for both legal services and society more generally, most of this paper was generated in about an hour through prompts within the chatbot. The disruptions from AI’s rapid development are no longer in the distant future. They have arrived, and this essay offers a small taste of what lies ahead.")
   
 ## A Few Things That Litigators Should Know About AI
 ## A Few Things that Transactional Attorneys Should Know About AI
