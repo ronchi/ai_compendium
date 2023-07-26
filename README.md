@@ -45,7 +45,7 @@ A few things to note.  All of those quotes were from the Twentieth Century.  AI 
 
 ## Types of AI
 
-Some types (or combinations of types) of AI are famous.  Many types of AI labor in the background -- unseen and unnoticed -- some of which have significant legal implications.
+Some types (or combinations of types) of AI are famous.  Many types of AI labor in the background -- unseen and unnoticed -- yet some of which have significant legal implications.
 
 The most important thing to remember is that there are many types of AI, as the chart below suggests:
 
