@@ -46,7 +46,7 @@ A few things to note.  All of those quotes were from the Twentieth Century.  AI 
 
 Some types (or combinations of types) of AI are famous.  Many types of AI labor in the background -- unseen and unnoticed -- yet some of which have significant legal implications.
 
-The most important thing to remember is that there are many types of AI, as the chart below suggests:
+The most important thing to remember is that there are many types of AI.  One set of types has to do with the four categories above (thinking/acting humanly/rationally).  A more practical set of categories can be distilled from the products that we encounter in our daily lives, as outlined in the chart below:
 
 ![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
 
