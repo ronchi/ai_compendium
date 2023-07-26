@@ -10,10 +10,9 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 3.  [AI for the Practice of Law](https://github.com/ronchi/ai_compendium/blob/main/README.md#ai-for-the-practice-of-law)
 4.  A Few Things That Litigators Should Know About AI
 5.  A Few Things That Transactional Attorneys Should Know About AI
-6.  Bonus:  Some Code That You Can Play Around With (for free)
 
 ## What is Artificial Intelligence?
-There is no one single definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the form of the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
+There is no one single (adequte) definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the categorizaion of thinking and acting, as illustrated in the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
 
 ### Thinking Humanly: The Cognitive Modeling Approach
 
