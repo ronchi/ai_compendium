@@ -83,6 +83,7 @@ Here is a set of articles that discuss Generative AI in depth.
 ##### Legal Aspects:
 
 - [The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry](https://www.natlawreview.com/article/generative-ai-revolution-key-legal-considerations-consumer-products-industry) (This article discusses the important legal aspects of generative AI systems such as [OpenAI's ChatGPT](https://openai.com/blog/chatgpt), [Microsoft's Copilot](https://adoption.microsoft.com/en-us/copilot/), and similar commercial offerings.)
+- [ChatGPT Goes to Law School](https://ssrn.com/abstract=4335905) (The authors of this paper used ChatGPT to generate answers to four real exams at the University of Minnesota Law School.  The resulting answers were graded (blindly) and ChatGPT received an average grade of C+ -- low, but passing.  Further advise was provided on how to use ChatGPT in legal writing.)
 
 ##### Rolling Your Own:
 
