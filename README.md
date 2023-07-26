@@ -158,7 +158,35 @@ Here is a set of articles that discuss Generative AI in depth.
 - [Generative AI in the Legal Profession](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/generative-ai-in-the-legal-profession/) ("When Open AI released ChatGPT in late 2022, it galvanized the collective imagination—and collective anxiety. Even lawyers wondered how such new AI technologies would change their profession.")
 - [The Implications of ChatGPT for Legal Services and Society](https://clp.law.harvard.edu/article/the-implications-of-chatgpt-for-legal-services-and-society/) ("To demonstrate ChatGPT's remarkable sophistication and potential implications, for both legal services and society more generally, most of this paper was generated in about an hour through prompts within the chatbot. The disruptions from AI’s rapid development are no longer in the distant future. They have arrived, and this essay offers a small taste of what lies ahead.")
 - [Generative Legal Minds](https://clp.law.harvard.edu/knowledge-hub/magazine/issues/generative-ai-in-the-legal-profession/generative-legal-minds/) ("How ChatGPT and other technologies might change legal research and writing")
-  
+
+### Machine Learning
+
+#### Deep Learning
+
+#### Supervised LEaerning
+
+#### Unsupervised Learning
+
+### Vision
+
+#### Image Recognition
+
+#### Machine Vision
+
+### Speech
+
+#### Speech-to-Text
+
+#### Text-to-Speech
+
+### Expert Systems
+
+### Genetic Algorithms
+
+### Robotics
+
+### Planning
+
 ## A Few Things That Litigators Should Know About AI
 ## A Few Things that Transactional Attorneys Should Know About AI
 ## Bonus:  Some Code That You Can Play Around With (for free)
