@@ -90,6 +90,7 @@ Here is a set of articles that discuss Generative AI in depth.
 - [A Complete Guide to Fine Tuning Large Language Models](https://www.simform.com/blog/completeguide-finetuning-llm/) ("Fine-tuning in large language models (LLMs) involves re-training pre-trained models on specific datasets, allowing the model to adapt to the specific context of your business needs. This process can help you create highly accurate language models, tailored to your specific business use cases.")
 - [LLM Finetuning](https://huggingface.co/docs/autotrain/llm_finetuning) (discusses how to fine tune your large language model (LLM) with your own data.)
 - [Build LLM-powered chatbot in 5 minutes using HugChat and Streamlit](https://dev.to/codemaker2015/build-llm-powered-chatbot-in-5-minutes-using-hugchat-and-streamlit-2f53) ("We will dive into a step-by-step process of developing an LLM-powered chatbot using HugChat, a powerful Python library that simplifies the integration of LLMs into chatbot applications. Furthermore, we will leverage Streamlit, a user-friendly framework for creating interactive web applications, to provide a seamless user interface and deployment platform for our chatbot.")
+- [How to use HuggingChat (free ChatGPT) in Python](https://medium.com/cassandra-cryptoassets/how-to-use-huggingchat-free-chatgpt-in-python-ac51ed9dd1f) (A step by step guide to using the HuggingChat Python API.)
 
 ## AI for the Practice of Law
 ## A Few Things That Litigators Should Know About AI
