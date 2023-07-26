@@ -163,7 +163,7 @@ Here is a set of articles that discuss Generative AI in depth.
 
 #### Deep Learning
 
-#### Supervised LEaerning
+#### Supervised Learning
 
 #### Unsupervised Learning
 
