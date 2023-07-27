@@ -12,7 +12,7 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 5.  A Few Things That Transactional Attorneys Should Know About AI
 
 ## What is Artificial Intelligence?
-There is no one single (adequte) definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the categorizaion of thinking and acting, as illustrated in the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
+There is no one single (adequate) definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the categorizaion of thinking and acting, as illustrated in the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
 
 ### Thinking Humanly: The Cognitive Modeling Approach
 
@@ -24,13 +24,13 @@ There is no one single (adequte) definition of artificial intelligence.  Fortuna
 
 `"The study of mental faculties through the use of computational models." (Charniak and McDermott, 1985)`
 
-`"The sutdy of the computations that make it possible to perceive, reason, and act." (Winston, 1992)`
+`"The study of the computations that make it possible to perceive, reason, and act." (Winston, 1992)`
 
 ### Acting Humanly: The Turing Test Approach
 
 `"The art of creating machines that perform functions that require intelligence when performed by people." (Kurzweil, 1990)`
 
-`"The study of how to make coputers do things at which, at the moment, people are better." (Rich and Knight, 1991)`
+`"The study of how to make computers do things at which, at the moment, people are better." (Rich and Knight, 1991)`
 
 ### Acting Rationally: The Rational Agent Approach
 
