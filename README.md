@@ -3,6 +3,7 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 
 ## Table of Contents
 
+1.  Why Lawyers Should Care About AI
 1.  [What is Artificial Intelligence?](https://github.com/ronchi/ai_compendium/blob/main/README.md#what-is-artificial-intelligence)
 2.  [Types of AI](https://github.com/ronchi/ai_compendium/blob/main/README.md#types-of-ai)
     1.  [Natural Language Processing]()
@@ -10,6 +11,8 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 3.  [AI for the Practice of Law](https://github.com/ronchi/ai_compendium/blob/main/README.md#ai-for-the-practice-of-law)
 4.  A Few Things That Litigators Should Know About AI
 5.  A Few Things That Transactional Attorneys Should Know About AI
+
+## Why Lawyers Should Care About AI
 
 ## What is Artificial Intelligence?
 There is no one single (adequate) definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the categorizaion of thinking and acting, as illustrated in the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
