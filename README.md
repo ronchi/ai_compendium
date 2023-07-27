@@ -3,7 +3,7 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 
 ## Table of Contents
 
-1.  Why Lawyers Should Care About AI
+1.  [Why Lawyers Should Care About AI](https://github.com/ronchi/ai_compendium/blob/main/README.md#why-lawyers-should-care-about-ai)
 1.  [What is Artificial Intelligence?](https://github.com/ronchi/ai_compendium/blob/main/README.md#what-is-artificial-intelligence)
 2.  [Types of AI](https://github.com/ronchi/ai_compendium/blob/main/README.md#types-of-ai)
     1.  [Natural Language Processing]()
