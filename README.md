@@ -7,7 +7,7 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 1.  [What is Artificial Intelligence?](https://github.com/ronchi/ai_compendium/blob/main/README.md#what-is-artificial-intelligence)
 2.  [Types of AI](https://github.com/ronchi/ai_compendium/blob/main/README.md#types-of-ai)
     1.  [Natural Language Processing]()
-    2.  [Generative AI (like ChatGPT)]()
+    2.  [Generative AI (like ChatGPT)](https://github.com/ronchi/ai_compendium/blob/main/README.md#generative-ai-chatgpt-like-combination-of-answering-questions-and-text-generation)
 3.  [AI for the Practice of Law](https://github.com/ronchi/ai_compendium/blob/main/README.md#ai-for-the-practice-of-law)
 4.  A Few Things That Litigators Should Know About AI
 5.  A Few Things That Transactional Attorneys Should Know About AI
