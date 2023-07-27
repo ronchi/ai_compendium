@@ -155,6 +155,7 @@ Here is a set of articles that discuss Generative AI in depth.
 - [LLM Finetuning](https://huggingface.co/docs/autotrain/llm_finetuning) (discusses how to fine tune your large language model (LLM) with your own data.)
 - [Build LLM-powered chatbot in 5 minutes using HugChat and Streamlit](https://dev.to/codemaker2015/build-llm-powered-chatbot-in-5-minutes-using-hugchat-and-streamlit-2f53) ("We will dive into a step-by-step process of developing an LLM-powered chatbot using HugChat, a powerful Python library that simplifies the integration of LLMs into chatbot applications. Furthermore, we will leverage Streamlit, a user-friendly framework for creating interactive web applications, to provide a seamless user interface and deployment platform for our chatbot.")
 - [How to use HuggingChat (free ChatGPT) in Python](https://medium.com/cassandra-cryptoassets/how-to-use-huggingchat-free-chatgpt-in-python-ac51ed9dd1f) (A step by step guide to using the HuggingChat Python API.)
+- [How To Build Your Own Custom ChatGPT With Custom Knowledge Base](https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e) (How to feed your own ChatGPT bot with custom data sources, such as certain court opinions, custodian's ESI, etc.)
 
 ## AI for the Practice of Law
 
@@ -188,7 +189,7 @@ Here is a set of articles that discuss Generative AI in depth.
 
 ### Robotics
 
-### Planning
+### Knowledge, Reasoning, and Planning
 
 ## A Few Things That Litigators Should Know About AI
 ## A Few Things that Transactional Attorneys Should Know About AI
