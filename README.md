@@ -15,6 +15,11 @@ This compendium was produced for the 2023 Texas Advanced Business Law Conference
 
 ## Why Lawyers Should Care About AI
 
+1.    Go over what our profession is about (knowledge for, and acting on behalf of clients)
+2.    Go over how AI has elements of agency (but not regulated by a Bar)
+
+- Roberto Legaspi, Zhengqi He, and Taro Toyoizumi, "[Synthetic agency: sense of agency in artificial intelligence](https://doi.org/10.1016/j.cobeha.2019.04.004)", Current Opinion in Behavioral Sciences, Vol. 29, October 2019, Pages 84-90.  (From the Abstract: "The concept of sense of agency (SoA) has garnered considerable attention in human science at least in the past two decades. Coincidentally, about two decades ago, artificial intelligence (AI) research witnessed an explosion of proposed theories on agency mostly based on dynamical approaches. However, despite this early burst of enthusiasm, SoA models in AI remain limited. We review the state of AI research on SoA, seen predominantly in developmental robotics, vis-à-vis the psychology and neurocognitive treatments, and examine how AI can further achieve stronger SoA models. We posit that AI is now poised to better inform SoA given its advances on self-attribution of action–outcome effects, action selection, and Bayesian inferencing, and argue that synthetic agency has never been more compelling.") 
+
 ## What is Artificial Intelligence?
 There is no one single (adequate) definition of artificial intelligence.  Fortunately, there is a "classic" formulation of AI in the categorization of thinking and acting, as illustrated in the following set of quotes, courtesy of AI pioneers Stuart Russell and Peter Norvig in their book "[Artificial Intelligence: A Modern Approach](https://people.eecs.berkeley.edu/~russell/aima/)" (4th ed., 2023):
 
