@@ -48,11 +48,15 @@ A few things to note.  All of those quotes were from the Twentieth Century.  AI 
 
 ## Types of AI
 
-Some types (or combinations of types) of AI are famous.  Many types of AI labor in the background -- unseen and unnoticed -- yet some of which have significant legal implications.
+Based on the definition outline above (Thinking/Acting & Humanly/Rationally) you could derive a chart such as the following:
+
+![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/Alternate_AI_types.png)
+
+However, it is often more practical to group the types of AI into categories that resemble the products and services with which we are accustomed or encounter regularly.  Some types (or combinations of types) of AI are famous.  Many types of AI labor in the background -- unseen and unnoticed -- yet some of which have significant legal implications.
 
 The most important thing to remember is that there are many types of AI.  One set of types has to do with the four categories above (thinking/acting humanly/rationally).  A more practical set of categories can be distilled from the products that we encounter in our daily lives, as outlined in the chart below:
 
-![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/ai_types.png)
+![Types of AI](https://github.com/ronchi/ai_compendium/blob/main/Standard_AI_types.png)
 
 We will address each type of AI, as well as link to various other sources, below.
 
