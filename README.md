@@ -43,7 +43,7 @@ There is no one single (adequate) definition of artificial intelligence.  Fortun
 
 ### Acting Rationally: The Rational Agent Approach
 
-`"Computational Intelligence is the stuy of the design of intelligent agents." (Poole et al., 1998)`
+`"Computational Intelligence is the study of the design of intelligent agents." (Poole et al., 1998)`
 
 `AI ...is concerned with intelligent behavior in artificats." (Nilsson, 1998)`
 
