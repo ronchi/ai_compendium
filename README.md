@@ -48,7 +48,7 @@ Defining artificial intelligence in a single term is extremely difficult, and fo
 
 `AI ...is concerned with intelligent behavior in artificats." (Nilsson, 1998)`
 
-You can find other definitions [here](https://www.britannica.com/technology/artificial-intelligence), [here](https://www.hpe.com/us/en/what-is/artificial-intelligence.html), and [here](https://www.ibm.com/topics/artificial-intelligence).
+You can find other attempts at defining AI [here](https://www.britannica.com/technology/artificial-intelligence), [here](https://www.hpe.com/us/en/what-is/artificial-intelligence.html), and [here](https://www.ibm.com/topics/artificial-intelligence).
 
 A few things to note.  All of those quotes were from the Twentieth Century.  AI was first conceived by [Aristotle](https://en.wikipedia.org/wiki/Aristotle).  Work on neural networks started in the 1950's.  What you see now is the culmination of decades of work by thousands of people.
 
